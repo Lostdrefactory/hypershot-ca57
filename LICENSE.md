@@ -1,4 +1,4 @@
-#  
+#  hypershot Script new offers the most advanced hypershot Script, with infinite resources and auto-sell. Perfect for dominating any match.
 
 
 
